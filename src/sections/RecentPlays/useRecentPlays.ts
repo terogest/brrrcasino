@@ -1,5 +1,5 @@
-import { GambaTransaction } from 'gamba-core-v2'
-import { useGambaEventListener, useGambaEvents, useWalletAddress } from 'gamba-react-v2'
+import { GambaTransaction } from ''
+import { useGambaEventListener, useGambaEvents, useWalletAddress } from ''
 import React from 'react'
 import { useLocation } from 'react-router-dom'
 
