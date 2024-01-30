@@ -1,5 +1,5 @@
-import { BPS_PER_WHOLE, GambaTransaction } from  'casino.brrrsol.xyz','gamba-core-v2'
-import { TokenValue, useTokenMeta } from 'brrrsol.xyz','gamba-react-ui-v2'
+import { BPS_PER_WHOLE, GambaTransaction } from  'gamba-core-v2','gamba-core-v2'
+import { TokenValue, useTokenMeta } from 'gamba-core-v2','gamba-react-ui-v2'
 import React from 'react'
 import { useMediaQuery } from '../../hooks/useMediaQuery'
 import { extractMetadata } from '../../utils'
